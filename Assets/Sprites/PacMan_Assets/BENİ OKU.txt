@@ -1,0 +1,2 @@
+GDD'de de yazdığı gibi, bu paketleri kullanmamakta ve kendi assetlerinizi yapmakta serbestsiniz. Bu paketleri kullanacaksanız, sadece birini
+kullanmanızı görsel tutarlılık adına tavsiye ederiz ama her iki paket de kullanılabilir.
